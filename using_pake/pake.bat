@@ -1,0 +1,1 @@
+pake C:\Users\Administrator\go\src\itetris\vue-tetris\dist\index.html  --name iTetris --iter-copy-file --icon C:\Users\Administrator\go\src\itetris\itetris.ico
